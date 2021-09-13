@@ -7,19 +7,19 @@
 
 2. Построение графиков. Исходный тренд.
 
-   ![](.\images\2.1.png)
+   ![](https://github.com/the-lans/collatz/blob/main/images/2.1.png)
 
 3. Нормализованные графики.
 
-   ![](.\images\2.2.png)
+   ![](https://github.com/the-lans/collatz/blob/main/images/2.2.png)
 
 4. Усреднение графиков.
 
-   ![](.\images\2.3.png)
+   ![](https://github.com/the-lans/collatz/blob/main/images/2.3.png)
 
 5. Растяжение графиков по OX до одного размера.
 
-   ![](.\images\2.4_1.png)
+   ![](https://github.com/the-lans/collatz/blob/main/images/2.4_1.png)
 
-   ![](.\images\2.4_2.png)
+   ![](https://github.com/the-lans/collatz/blob/main/images/2.4_2.png)
 
